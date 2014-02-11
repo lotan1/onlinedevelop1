@@ -1,0 +1,140 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+#box {
+    float: none;
+    height: 43px;
+    clear: none;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(209, 217, 252);
+}
+#text {
+	float: none;
+	font-size: 2.5em;
+	width: auto;
+	height: 100%;
+	text-align: center;
+	font-weight: 500;
+	line-height: 1em;
+	word-wrap: break-word;
+	margin-left: auto;
+	margin-top: 1px;
+	clear: none;
+	min-height: 0px;
+	font-family: viga;
+	opacity: 0.56;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	margin-right: auto;
+}
+#box7 {
+    float: left;
+    height: 50px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 48.50256635227023%;
+    min-height: 50px;
+    background-color: rgb(120, 144, 245);
+}
+#reflow-4f12e9af-22fb-5af9-09bc-d015ff866a1f {
+    margin-left: 180px;
+}
+#box5 {
+    float: none;
+    height: 155px;
+    margin-left: 8.5%;
+    margin-top: 0px;
+    clear: none;
+    width: 83.17903048914236%;
+    background-color: rgb(13, 42, 170);
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+#box1 {
+    float: none;
+    height: 520px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgba(151, 169, 248, 0.780392);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-right: auto;
+    min-width: 0px;
+}
+#box4 {
+    float: none;
+    height: 85px;
+    margin-left: 8.5%;
+    margin-top: 53px;
+    clear: both;
+    width: 83.17903048914236%;
+    background-color: rgb(16, 53, 213);
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#box6 {
+    float: none;
+    height: 175px;
+    margin-left: 8.5%;
+    margin-top: 0px;
+    clear: none;
+    width: 83.17903048914236%;
+    background-color: rgb(6, 20, 82);
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+#box2 {
+    float: left;
+    height: 53px;
+    clear: none;
+    width: 48.5742487387585%;
+    min-height: 50px;
+    background-color: rgb(38, 218, 252);
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+#box3 {
+    float: right;
+    height: 53px;
+    clear: none;
+    width: 48.8923009431893%;
+    min-height: 50px;
+    background-color: rgb(37, 181, 208);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0.12579002808988765%;
+}
+#box8 {
+    float: right;
+    height: 50px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 48.73726694450538%;
+    background-color: rgb(75, 108, 242);
+    min-height: 50px;
+    margin-right: 0.023426189953937266%;
+}
